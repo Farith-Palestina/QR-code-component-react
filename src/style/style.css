@@ -56,7 +56,6 @@ body{
 @media screen and (max-width: 768px) {
     body{
         background-color: hsl(212, 45%, 89%);
-        padding-top: 15%;
     }
 
     .container{
