@@ -53,41 +53,9 @@ body{
     font-weight: 400;
 }
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 768px) {
     body{
         background-color: hsl(212, 45%, 89%);
-    }
-
-    .container{
-        background-color: hsl(0, 0%, 100%);
-        border-radius: 10px;
-        width: 20%;
-        margin: auto;
-    }
-}
-
-@media screen and (max-width: 667px) {
-    body{
-        background-color: hsl(212, 45%, 89%);
-        padding-bottom: 100px;
-    }
-
-    .container{
-        background-color: hsl(0, 0%, 100%);
-        border-radius: 15px;
-        width: 45%;
-        margin: auto;
-    }
-
-    .first-text{
-        padding: 0 30px 15px 30px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    body{
-        background-color: hsl(212, 45%, 89%);
-        padding-bottom: 100px;
     }
 
     .container{
