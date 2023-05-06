@@ -53,10 +53,10 @@ body{
     font-weight: 400;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
     body{
         background-color: hsl(212, 45%, 89%);
-        padding-top: 25%;
+        padding-top: 15%;
     }
 
     .container{
